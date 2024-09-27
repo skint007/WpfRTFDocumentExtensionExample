@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4qyN1ErWSJY=",
+  "success": true,
+  "projectFilePath": "/home/skint007/Dropbox/projects/csharp/gitexamples/WpfRTFDocumentExtensionExample/WpfRTFDocumentExtensionExample/WpfRTFDocumentExtensionExample.csproj",
+  "expectedPackageFiles": [
+    "/home/skint007/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
